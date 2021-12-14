@@ -1,0 +1,62 @@
+body{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center; 
+    background-image: url(HomeCover.jpg);
+    background-size: cover; 
+    
+ }
+.main-container{
+    border: black 2px solid;
+}
+.logout{
+    float: right;
+    color: white;
+}
+.navbar{
+    height: 70px;
+    width: 100;
+    padding: 15px ;
+    background: rgb(15, 4, 14);
+}
+.max-width{
+    max-width: 1300px;
+    padding:0 80px;
+    margin: auto;
+}
+.navbar .menu li a{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 40px;
+}
+.navbar .menu li {
+    list-style: none;
+    display: inline-block;
+}
+label{
+    width: 500px;
+    padding-right: 20px;
+    color: black;
+    font-weight: bold;
+ }
+    #rcorners2{
+    
+       border-radius: 25px;
+       border: 2px;
+       padding: 110px;
+       width: 520px;
+       height: 250px;
+       margin: auto; 
+       size: 50px; 
+  } 
+
+
+ input{
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+ }
+
+
+ 

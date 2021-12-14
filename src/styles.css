@@ -1,1 +1,58 @@
 /* You can add global styles to this file, and also import other style files */
+/* @import 'bootstrap/dist/css/bootstrap.min.css'; */
+
+/* body{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+ }
+ .main-container{
+     height: 500px;
+     width: 500px;
+     border: 2px solid black;
+     justify-content: center;
+     
+ }
+ .container{
+     border: 1px solid black;
+     height: 80px;
+    
+ 
+ }
+ .middle{
+     display: flex;
+    align-items: center;
+    justify-content: center; 
+    padding-top: 150px;
+ }
+ .main{
+     padding: 10px;
+     margin-top: 20px;
+ }
+ .btn{
+     float: right;
+     padding: 12px;
+     margin: 5px;
+     background-color: darkgrey;
+ }
+ 
+ button{
+     float: right;
+     padding: 10px;
+     margin: 5px;
+ } 
+ 
+ 
+ .report{
+     
+     padding: 12px;
+     margin: 5px;
+     background-color: greenyellow;
+     border-radius: 7px;
+ }
+ .newexam{
+     border-radius: 7px;
+     padding: 12px;
+     margin: 5px;
+     background-color:rgb(141, 194, 42);
+ }  */
